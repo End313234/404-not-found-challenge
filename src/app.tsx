@@ -18,7 +18,7 @@ export const App = () => {
 						The page you are looking for might be removed or is temporarily
 						unavailable
 					</p>
-					<button className="uppercase bg-gray-800 text-white px-5 py-4 mb-10">
+					<button className="uppercase bg-gray-800 text-white px-5 py-4 mb-10 md:mb-0">
 						back to homepage
 					</button>
 				</div>
